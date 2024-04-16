@@ -1,0 +1,22 @@
+11/16/23 18:51
+
+Problem 1 (13 points):
+Missing t=1.0 plot
+Score += 10
+
+Problem 2 (15 points):
+Plots not labeled in a distinguishing way
+Score += 14
+
+Problem 3 (17 points):
+Score += 17
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
