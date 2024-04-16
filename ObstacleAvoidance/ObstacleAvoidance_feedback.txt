@@ -1,0 +1,25 @@
+03/28/24 18:30
+
+Problem 1 (10 points):
+Your second plot isn't quite right
+Score += 8
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Didn't print optimal time
+Score += 14
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

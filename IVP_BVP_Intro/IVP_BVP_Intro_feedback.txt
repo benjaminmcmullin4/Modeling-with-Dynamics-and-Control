@@ -1,0 +1,28 @@
+09/21/23 15:26
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (12 points):
+Plot is set up incorrectly
+Score += 9
+
+Problem 5 (13 points):
+Displayed E values are not the values calculated by solve_bvp
+Score += 11
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
